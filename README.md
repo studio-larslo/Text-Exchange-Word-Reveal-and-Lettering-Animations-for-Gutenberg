@@ -1,6 +1,6 @@
 # Yours59 Animate Span Exchange
 
-A WordPress (Gutenberg only, 6.3++) plugin that adds animated span exchange functionality to your website.
+A WordPress (Gutenberg only, 6.3++) plugin that adds animated span exchange functionality to your website. No new block, just a new RichTextToolbarButton.
 
 ## Description
 
