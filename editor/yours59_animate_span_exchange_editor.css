@@ -79,13 +79,17 @@ body.block-editor-page .yours59-animate-text-change-in-marks {
 }
 .word-item {
     display: grid;
-    grid-template-columns: 40% 60px 20px 20px 20px 70px 20px 1fr;
+    grid-template-columns: 40% 80px 20px 20px 20px 70px 20px 1fr;
     grid-template-rows: 1fr;
     justify-content: start;
     align-items: center;
     gap: 10px;
     padding: 10px;
     border-bottom: 1px solid #e0e0e0;
+}
+.word-item.tableheader-free {
+    grid-template-columns: 40% auto;
+    padding: 0 !important;
 }
 .word-item.tableheader {
     font-size:.8em;
