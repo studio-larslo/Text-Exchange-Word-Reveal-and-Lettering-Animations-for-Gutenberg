@@ -1,0 +1,203 @@
+
+body.block-editor-page .yours59-animate-text-change-in-marks {
+    border: 1px solid #5755d9;
+}
+
+.word-animation-form .components-panel__body-toggle {
+    padding: 10px;
+}
+
+.word-item {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.word-item-controls {
+    display: flex;
+    gap: 5px;
+}
+
+.word-item > div {
+    margin-bottom: 0;
+}
+
+.components-base-control {
+    margin-bottom: 0 !important;
+}
+
+.components-base-control__field {
+    margin-bottom: 0;
+}
+
+.components-text-control__input,
+.components-select-control__input {
+    height: 30px;
+    min-height: 30px;
+}
+
+.components-range-control {
+    /* width: 200px; */
+}
+
+.components-color-picker {
+    width: 200px;
+}
+
+.components-button.is-secondary {
+    margin-top: 10px;
+}
+
+.components-panel__body > .components-base-control {
+    margin-bottom: 10px !important;
+}
+
+/* .components-popover.components-inline-color-popover {
+    min-width: 600px;
+} */
+
+.y59-json-editor-wrapper {
+    width: 100%;
+    min-width: 768px;
+    border: 1px solid #5755d9;
+}
+
+.y59-json-editor-wrapper .components-panel__body > div {
+    padding-left: 0;
+    padding-right: 0;
+}
+.y59-json-editor-wrapper .components-panel__body-title {
+    margin-bottom: 10px;
+}
+.y59-json-editor-wrapper .components-panel__body-title .components-button  {
+    font-size: 1em !important;
+    font-weight: bold;
+
+}
+.word-item {
+    display: grid;
+    grid-template-columns: 40% 60px 20px 20px 20px 70px 20px 1fr;
+    grid-template-rows: 1fr;
+    justify-content: start;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    border-bottom: 1px solid #e0e0e0;
+}
+.word-item.tableheader {
+    font-size:.8em;
+    line-height: 1em;
+    justify-content: center;
+    padding-bottom:0;
+    margin-top: 1rem;;
+}
+.word-item.tableheader > span{
+    display: block;
+    text-align: center;
+    position: relative;
+}
+.word-item.tableheader > span > span{
+    position: absolute;
+    left:50%;
+    transform: translateX(-50%);
+}
+.word-item.tableheader button{
+    padding: 0;
+    height: 1em;
+    position: relative;
+    opacity: .5;
+    top:-12px;
+}
+
+.word-item > * {
+    flex: 1;
+    min-width: 0;
+}
+
+.word-item-controls {
+    display: flex;
+    gap: 5px;
+    flex: 0 0 auto;
+}
+
+.word-item .components-base-control__field {
+    margin-bottom: 0 !important;
+}
+
+.word-item .components-text-control__input,
+.word-item .components-range-control,
+.word-item .components-select-control__input {
+    width: 100%;
+}
+
+.word-item .components-color-picker {
+    width: 30px;
+    height: 30px;
+}
+
+.row-add-delete {
+    display: flex;
+    justify-content: space-between;
+}
+
+.y59-span-animate-general-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.y59-span-animate-general-container .components-range-control {
+    display: grid;
+    grid-template-columns: 480px 1fr;
+    gap: 1rem;
+    overflow: hidden;
+}
+.y59-span-animate-general-container .components-base-control__field,
+.y59-span-animate-general-container .components-select-control  {
+    display: grid;
+    grid-template-columns: 300px 300px;
+    gap: 1rem;
+}
+.y59-span-animate-general-container .y59-span-animate__3-col {
+    display: grid;
+    grid-template-columns: 480px 1fr;
+    gap: 1rem;
+}
+.y59-span-animate-general-container .y59-span-animate__3-col .components-base-control__field{
+    grid-template-columns: 175px auto;
+    gap: 1rem;
+    align-items: start;
+}
+.y59-span-animate-general-container .y59-span-animate__select-2 {
+    display: grid;
+    grid-template-columns: 480px 1fr;
+    gap: 1rem;
+}
+ .components-base-control__help {
+    margin-top: calc(8px);
+    font-size: 12px;
+    font-style: normal;
+    color: rgb(117, 117, 117);
+    line-height: 1.4em;
+    margin:0;
+}
+/* .y59-span-animate-general-container .components-base-control__field { */
+.y59-span-animate-general-container .components-input-base {
+    grid-template-columns: 170px 160px;
+}
+.y59-span-animate-general-container .y59-span-animate__select-2 .components-input-control__container {
+    width: 100%;
+}
+
+
+.y59-span-animate-general-container .components-range-control__wrapper {
+    min-width: 160px;
+}
+.y59-span-animate-general-container .components-base-control__label,
+.y59-span-animate-general-container .components-input-control__label {
+    font-weight: normal !important;
+    text-transform: none !important;
+    font-size: 1em !important;
+}
