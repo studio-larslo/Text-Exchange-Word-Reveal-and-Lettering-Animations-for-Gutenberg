@@ -20,8 +20,9 @@ Yours59 Animate Span Exchange is a WordPress plugin that allows you to create en
 
 ## Installation
 
-1. Upload the `yours59_animate_span_exchange` folder to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
+1. Download the zip file from our repo here (https://github.com/studio-larslo/Text-Exchange-Word-Reveal-and-Lettering-Animations-for-Gutenberg/archive/refs/heads/main.zip) 
+1. Upload the zip folder to the `/wp-content/plugins/` directory, and extract it.
+2. Activate the plugin through the 'Plugins' menu in WordPress (its name is "Text-Exchange-Word-Reveal-and-Lettering-Animations-for-Gutenberg-main  (yours59_animate_span_exchange_free)")
 3. Start using the Animate Span Exchange block in your posts and pages
 
 ## Usage

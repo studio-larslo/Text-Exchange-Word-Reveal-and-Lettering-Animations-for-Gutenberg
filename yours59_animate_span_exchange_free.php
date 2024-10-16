@@ -1,7 +1,7 @@
 <?php
 /**
  *
- * Plugin Name:  yours59_animate_span_exchange_free
+ * Plugin Name:  Text-Exchange-Word-Reveal-and-Lettering-Animations-for-Gutenberg-main (yours59_animate_span_exchange_free)
  * Plugin URI:   https://wordpress-larslo.de/plugin-text-exchange-and-lettering-animation/
  * Description:  Plugin adds a button to Gutenberg RichTextToolbarButtons allowing you to animate text-spans (exchange the shown text). This is the free version. Get the full version on https://wordpress-larslo.de/plugin-text-exchange-and-lettering-animation/
  * Author:       larslo
