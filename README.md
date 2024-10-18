@@ -1,21 +1,10 @@
-# Yours59 Animate Span Exchange
+# Text Exchange, Word Reveal and Lettering Animations for Wordpress with Gutenberg 
 
 A WordPress (Gutenberg only, 6.3++) plugin that adds animated span exchange functionality to your website. No new block, just a new RichTextToolbarButton.
 
 ## Description
 
 Yours59 Animate Span Exchange is a WordPress plugin that allows you to create engaging and dynamic text animations on your website. It provides both editor and frontend functionality to integrate animated text exchanges into your content.
-
-## Features
-
-- make your texts words exchange when entering screens
-- animate text elements in paragraphs, headlines, buttons
-- uses clip-path to animate text parts in and out. 
-- make words or sentences appear, change 
-- Word-by-Word Reveal for whole sentences
-- make parts of every text appear to be 'blackedout' than have it appear 
-- usable in many ways, very flexible and multi functional
-- works with gutenberg and via RichTextToolbarButton 
 
 ## How to use
 
@@ -39,6 +28,16 @@ Yours59 Animate Span Exchange is a WordPress plugin that allows you to create en
 
 [![Text-Exchange-Word-Reveal-and-Lettering-Animations-for-Gutenberg](https://github.com/studio-larslo/Text-Exchange-Word-Reveal-and-Lettering-Animations-for-Gutenberg/blob/main/text-animations-demo-6.png)](https://github.com/studio-larslo/Text-Exchange-Word-Reveal-and-Lettering-Animations-for-Gutenberg/blob/main/text-animations-demo-6.png)
 
+## Features
+
+- make your texts words exchange when entering screens
+- animate text elements in paragraphs, headlines, buttons
+- uses clip-path to animate text parts in and out. 
+- make words or sentences appear, change 
+- Word-by-Word Reveal for whole sentences
+- make parts of every text appear to be 'blackedout' than have it appear 
+- usable in many ways, very flexible and multi functional
+- works with gutenberg and via RichTextToolbarButton 
 
 
 ## Installation
