@@ -17,6 +17,12 @@ Yours59 Animate Span Exchange is a WordPress plugin that allows you to create en
 - usable in many ways, very flexible and multi functional
 - works with gutenberg and via RichTextToolbarButton 
 
+## How to use
+
+[![Text-Exchange-Word-Reveal-and-Lettering-Animations-for-Gutenberg](https://github.com/studio-larslo/Text-Exchange-Word-Reveal-and-Lettering-Animations-for-Gutenberg/blob/main/text-animations-demo-5.png)](https://github.com/studio-larslo/Text-Exchange-Word-Reveal-and-Lettering-Animations-for-Gutenberg/blob/main/text-animations-demo-5.png)
+
+[![Text-Exchange-Word-Reveal-and-Lettering-Animations-for-Gutenberg](https://github.com/studio-larslo/Text-Exchange-Word-Reveal-and-Lettering-Animations-for-Gutenberg/blob/main/text-animations-demo-6.png)](https://github.com/studio-larslo/Text-Exchange-Word-Reveal-and-Lettering-Animations-for-Gutenberg/blob/main/text-animations-demo-6.png)
+
 
 ## Installation
 
