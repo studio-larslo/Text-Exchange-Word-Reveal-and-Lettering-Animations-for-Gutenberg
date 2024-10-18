@@ -79,17 +79,13 @@ body.block-editor-page .yours59-animate-text-change-in-marks {
 }
 .word-item {
     display: grid;
-    grid-template-columns: 40% 80px 20px 20px 20px 70px 20px 1fr;
+    grid-template-columns: 30% 50px 20px 20px 20px 70px 20px 40px 40px 1fr;
     grid-template-rows: 1fr;
     justify-content: start;
     align-items: center;
     gap: 10px;
     padding: 10px;
     border-bottom: 1px solid #e0e0e0;
-}
-.word-item.tableheader-free {
-    grid-template-columns: 40% 80px 20px;
-    padding: 0 !important;
 }
 .word-item.tableheader {
     font-size:.8em;
@@ -112,7 +108,10 @@ body.block-editor-page .yours59-animate-text-change-in-marks {
     padding: 0;
     height: 1em;
     position: relative;
+
+    /* position: absolute; */
     opacity: .5;
+    /* right: 0; */
     top:-12px;
 }
 
@@ -192,6 +191,10 @@ body.block-editor-page .yours59-animate-text-change-in-marks {
     grid-template-columns: 170px 160px;
 }
 .y59-span-animate-general-container .y59-span-animate__select-2 .components-input-control__container {
+    /* max-width: 240px !important; */
+    /* display: grid;
+    grid-template-columns: 200px auto;
+    gap: 1rem; */
     width: 100%;
 }
 
@@ -205,3 +208,14 @@ body.block-editor-page .yours59-animate-text-change-in-marks {
     text-transform: none !important;
     font-size: 1em !important;
 }
+
+.word-item input[type="number"] {
+    -moz-appearance: textfield;
+    appearance: textfield;
+  }
+  
+  .word-item input::-webkit-outer-spin-button,
+  .word-item input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
